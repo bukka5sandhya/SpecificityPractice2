@@ -1,0 +1,35 @@
+body{
+    margin:0px;
+}
+.todo-container{
+    background-color:  #f6f5f1;
+    background-size: cover;
+    height:100vh;
+
+}
+h1{
+    font-family: "Roboto";
+    font-size:30px;
+    padding:10px;
+
+
+}
+#todayHeading{
+    color:blue;
+
+}
+li{
+    font-family: "Roboto";
+    font-weight:500;
+    padding:10px;
+
+}
+.go-walk{
+    text-decoration: line-through;
+    font-style: italic;
+    font-family: "Roboto";
+    color:grey;
+    font-weight:500;
+    padding:10px;
+
+}
